@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevinoTest", "DevinoTest\DevinoTest.csproj", "{F4948E9A-0B53-420A-A468-4BA673BF2508}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4948E9A-0B53-420A-A468-4BA673BF2508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4948E9A-0B53-420A-A468-4BA673BF2508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4948E9A-0B53-420A-A468-4BA673BF2508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4948E9A-0B53-420A-A468-4BA673BF2508}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E3D492A-3136-4E72-8C17-AB3E77A6DAE6}
+	EndGlobalSection
+EndGlobal
